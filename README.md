@@ -10,8 +10,10 @@
 10| (2 or 3 interested parties)
 
 # Stellaris-10-Man-Rumble
+
 When?
-https://www.timeanddate.com/worldclock/converter.html?iso=20161220T030000&p1=152&p2=250&p3=220&p4=22&p5=104&p6=179&p7=168&p8=256
+
+https://www.timeanddate.com/worldclock/converter.html?iso=20161220T030000&p1=152&p2=250&p3=220&p4=22&p5=104&p6=179&p7=256
 
 
          DAILY 
