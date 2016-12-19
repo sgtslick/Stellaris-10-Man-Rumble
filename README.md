@@ -17,6 +17,11 @@ DAILY
 All players and at least 4 can agree to postone for 1 day otherwise a standin will take over for you.
 
 
+Duration:
+Usually 3 to 4 hours. 
+Keep playing every day until victory. 
+
+
 
 Ruleset:
 
@@ -26,6 +31,8 @@ Hard Difficulty
 Normal Speed (except first 2 hours on Fast)
 (No pausing except for when setting war demands)
 100% habitability
+Max Federtaion size (undecided possibly 4)
+Name of Empire = Nickname
 
 
 Possible Modded Conent: Notification Spam Control
