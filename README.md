@@ -11,25 +11,26 @@
 
 # Stellaris-10-Man-Rumble
 When?
- https://www.timeanddate.com/worldclock/converter.html?iso=20161219T030000&p1=152&p2=250&p3=220&p4=22
+https://www.timeanddate.com/worldclock/converter.html?iso=20161220T030000&p1=152&p2=250&p3=220&p4=22&p5=104&p6=179&p7=168&p8=256
 
-DAILY 
-All players and at least 4 can agree to postone for 1 day otherwise a standin will take over for you.
 
+         DAILY 
+        ONGOING
+(UNTIL WINNER ESTABLISHED)
+One exception; All players and at least 4 can agree to postone for 1 day otherwise a standin will take over for you.
 
 Duration:
-Usually 3 to 4 hours. 
-Keep playing every day until victory. 
+Usually 3 to 4hours (MAX) 
 
 
-
-Ruleset:
+Rules:
 
 Hyperlane Only
-1 Ai from each ethos (8 total) 
-Hard Difficulty
+1 Ai representative for each ethos (8 total) 
+AI Hard Difficulty
 Normal Speed (except first 2 hours on Fast)
-(No pausing except for when setting war demands)
+Normal Size Map (4-arm Spiral)
+No pausing except for when setting war demands
 100% habitability
 Max Federtaion size (undecided possibly 4)
 Name of Empire = Nickname
