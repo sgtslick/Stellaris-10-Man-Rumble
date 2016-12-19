@@ -1,13 +1,13 @@
-Sgtslick
-Rothe
-Micah
-Emperor Mango
-Alexander
-Onyx
-Zapness
-Fatdog
-Umar
-+2 or 3 interested parties
+1|Sgtslick
+2|Rothe
+3|Micah
+4|Emperor Mango
+5|Alexander
+6|Onyx
+7|Zapness
+8|Fatdog
+9|Umar
+10| (2 or 3 interested parties)
 
 # Stellaris-10-Man-Rumble
 When?
