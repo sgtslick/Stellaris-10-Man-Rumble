@@ -27,8 +27,7 @@ http://steamcommunity.com/profiles/76561197968278146/
 
 10| (2 or 3 interested parties)
 
-*please note I will list steam profiles here tomorrow as well as the teamspeak server. We can have private rooms within the teamspeak server so players can discuss things of a private or politically confidential nature as well as the standard 10 people talking in channel set up. 
-
+Teamspeak server address: ********************************* Will be revealed shortly
 
 # Stellaris-10-Man-Rumble
 
