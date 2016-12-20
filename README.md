@@ -1,4 +1,8 @@
 
+
+1|Emperor Mango
+http://steamcommunity.com/profiles/76561198103907938/
+
 1|Sgtslick
 http://steamcommunity.com/profiles/76561198080828233/
 
@@ -7,12 +11,6 @@ http://steamcommunity.com/profiles/76561198007273015/
 
 3|Siris Sin
 http://steamcommunity.com/profiles/76561198045417922/
-
-4|Emperor Mango
-http://steamcommunity.com/profiles/76561198103907938/
-
-5|Alexander
-http://steamcommunity.com/profiles/76561198005647832/
 
 6|Onyx
 http://steamcommunity.com/profiles/76561198119439314/
@@ -23,9 +21,7 @@ http://steamcommunity.com/profiles/76561198046902471/
 8|Fatdog
 http://steamcommunity.com/profiles/76561197968278146/
 
-9|Umar
-
-10| (2 or 3 interested parties)
+9|10| (2 or 3 interested parties)
 
 Teamspeak server address: ********************************* Will be revealed shortly
 
