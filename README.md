@@ -29,8 +29,7 @@ Teamspeak server address: ********************************* Will be revealed sho
 
 When?
 
-https://www.timeanddate.com/worldclock/converter.html?iso=20161220T030000&p1=152&p2=250&p3=220&p4=22&p5=104&p6=179&p7=256
-
+https://www.timeanddate.com/worldclock/converter.html?iso=20161221T030000&p1=152&p2=250&p3=220&p4=22&p5=104&p6=179&p7=256
 
          DAILY 
         ONGOING
